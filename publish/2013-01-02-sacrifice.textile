@@ -1,4 +1,8 @@
-h2. Sacrifice
+---
+layout: post
+title: Sacrifice
+---
+<title>{{ page.title }}</title>
 
 I am fascinated by people who devote a significant amount of their life to pursuing a single goal. Olympians, UFC fighters, and anybody else engaged in some sort of high level competition or trying to achieve a very difficult goal all share the pain of having sacrificed something to reach their target. Or not... Failure happens, especially in competitive environments where there are winners and losers. You can see it on their face: the deep disappointment of having fought so hard and given up so much for nothing in return, or the exultation of having succeeded. Many people attempt these feats and compete for glory with a high risk of not achieving anything. They go for it, sometimes multiple times. What drives them? Is there a reward in failure? Is being second best okay?
 

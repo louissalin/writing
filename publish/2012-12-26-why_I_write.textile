@@ -1,4 +1,8 @@
-A means of expression
+---
+layout: post
+title: A Means of Expression
+---
+<title>{{ page.title }}</title>
 
 bq. Genius is one percent inspiration and ninety-nine percent perspiration. 
 - Thomas Edison
