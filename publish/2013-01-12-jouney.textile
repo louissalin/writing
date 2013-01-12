@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Journey as a Software Developer: the early years
+title: My Journey as a Software Developer - the early years
 ---
 <title>{{ page.title }}</title>
 
