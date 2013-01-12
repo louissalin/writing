@@ -1,0 +1,15 @@
+---
+layout: post
+title: My Journey as a Software Developer: the real world
+---
+<title>{{ page.title }}</title>
+
+After getting out of college I got a job in a small shop that was reselling a 3D CAD software package and I spent about a year writing custom automation scripts for a customer of ours. Then a team was put together to write a full blown plugin for the platform and I must've spent a bit more than two years working on that. This was my introduction to .Net and C#. It was early in my career that I started feeling that programming could be a frustrating and boring job, not the exciting hobby it used to be. The main reason for this is that as a professional, I had to maintain old code that had been written by other people in a different time with different constraints. The job became more of trying to fit a square peg in a round hole. Even stuff I wrote ended up as a square peg just weeks after the feature was completed!
+
+As I started reading development blogs, I realized that brute forcing code on everything I touched wasn't the best way to go. It was the way most developers I had worked with did things, but I became increasingly annoyed. I knew there was something better out there. I started on a journey to know it all. DDD, BDD, open source libraries, etc. 
+
+Then I got exposed to over-engineering and switched back to simplicity, but still using TDD whenever possible.
+
+Got a break working on unix platforms and programming became fun again!
+
+I'm swinging back to design and engineering, but don't want to go as far.
