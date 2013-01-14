@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Journey as a Software Developer: the real world
+title: My Journey as a Software Developer - the real world
 ---
 <title>{{ page.title }}</title>
 
