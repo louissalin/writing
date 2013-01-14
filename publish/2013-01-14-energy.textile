@@ -1,0 +1,54 @@
+---
+layout: post
+title: Energy
+---
+<title>{{ page.title }}</title>
+
+I've been thinking quite a bit about my career these past few months and I had the chance to meet briefly with a career coach who happens to be a high ranking manager in a big, big company. When I asked her for some career advice, I was hoping she'd help me figure out what I wanted to become as I grew as a professional. Instead, I received advice on managing my energy. To me, this piece of advice came out of left field. You see, when I normally receive counsel that goes against my needs or doesn't seem to relate to them, I tend to disregard it. However, this energy thing got me curious.
+
+The advice was: build a list of things that give you energy and things that use up energy. Then find a way to manage that energy.
+
+What is energy? I'm still not completely sure. I see it as a force that helps me move forward and be happy in life and feel... energized. It's a source of motivation and also a resource I can draw on when bad things happen to me. It helps me keep my calm, remain zen like and weather a storm. When I run out of energy, I risk becoming moody, irritable and not very fun to be around. When I'm full of energy, I tend to be very confident, happy, and more of a risk taker.
+
+So here is my list.
+
+Things that give me energy, in no particular order:
+
+* Positive recognition
+* Social interactions
+* Finishing a task the right way
+* Inspiring someone else
+* Successfully thinking out of the box (it's harder than you think!)
+* Self*discipline
+* Planning
+* Having a vision
+* Exercising
+* Eating right: veggies, grass*fed meats and healthy fats. Small portions
+* Sleeping 8 to 9 hours a night
+* Having a cause
+* Writing code without friction
+* Designing software
+* Playing with new technology
+* Learning interesting things
+* Traveling, even if it's work related
+
+Things that use up energy, in no particular order:
+
+* Getting sucked into an argument
+* Not knowing facts I should know
+* Being unprepared
+* Being disrespected
+* Interacting with people I don't like
+* Not having done what I should have done
+* Organizing things, scheduling
+* Calling people on the phone
+* Figuring out what the first step to a goal is
+* Procrastinating
+* Junk food
+* Not sleeping enough
+* Running out of money
+* Loud noises
+* Filling out forms
+* Negotiating
+
+This list is by no means complete. I'm sure I'll have to revise it as I get to know myself better. However, one thing's for sure right now: you know me better.
