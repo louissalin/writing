@@ -1,0 +1,19 @@
+---
+layout: post
+title: Technical Leadership in an Agile Team?
+---
+<title>{{ page.title }}</title>
+
+When work is handed down by product managers and product owners, when the team of software developers is self-organized, when their manager's purpose is make sure the team works as efficiently as possible, then how does one rise through the ranks? What ranks are there to rise through? Typically, the way up is through management. There is also a way to rise through technical ranks, however, but this path is always more nebulous. 
+
+research Fellows
+
+leading an agile team technically can be difficult because everything is a team decision. Should one even want to lead?
+
+What is the necessary motivation to lead? What drives us to want to lead? I crave ownership and responsibility of something. I'd like to play at a higher level. I really want our team to succeed, or maybe I should say I really want our team of teams to succeed.
+
+How does one lead in an agile team? Could there be a hidden track to rise through? Unification of different products, synchronization between teams, re-use of common frameworks. These are all things that could be taken care of by a team of tech leads.
+
+...
+
+I'd like to finish on a thought. One can rise through the management levels and one can rise through the tech track. I believe there is a third way. A tech leader or with enough business savvy and a big enough professional network could switch to the management track and skip a few levels to end up as a true leader. At this level (VP?), managers work for you and product owners report to you. You drive the product. Why should this only be accessible via the management track?
