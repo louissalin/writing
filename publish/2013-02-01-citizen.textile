@@ -1,0 +1,11 @@
+---
+layout: post
+title: I Am an American Citizen
+---
+<title>{{ page.title }}</title>
+
+Yesterday, I became an American citizen, ending a journey that started nine years ago when my American wife told me she didn't want to live in Canada anymore. I set foot in the United States for the first time as an immigrant eight years ago and I became a permanent resident just seven years ago. And now just a day ago, I became a citizen.
+
+This means a lot to me and it wasn't a decision that I made lightly. As an immigrant married to an American, I was allowed to apply after just three short years of being a permanent resident. So why did I wait seven years? Because I didn't feel like an American yet. I didn't feel comfortable signing the national anthem or pledging my allegiance to the flag. This is important. Too many people, I feel, try to become citizens as soon as possible. I can understand in some cases that some applicants come from difficult backgrounds or dangerous countries and they can't wait to put this behind them. Others don't have this problem, however. Did they feel American yesterday during the ceremony? Maybe. I can't really judge. But as a Canadian, it didn't feel right to me to rush the process. Permanent residency is permanent, after all and I never intended to do anything that would have the USCIS revoke it, like commit a felony. 
+
+I may have officially become an American yesterday, but I've been one in my heart for a little while already.
