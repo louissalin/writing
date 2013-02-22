@@ -20,7 +20,8 @@ My next job took me to an actual software development company with processes and
 
 After I left, I started working with a company downtown who's main revenue came from software sales. However, I thought it was a huge step back from the company I had just left. Although they had proper tooling for software development, the techniques they used were antiquated compared to my previous employer's. Open source libraries were frowned upon, the application logic was back in the database and chaos reigned. I left just a year after starting. Once again, I had let my motivation go down and my performance suffered. But I knew where I wanted to go next.
 
-During all these years, I was still learning on the side.
-Got a break working on unix platforms and programming became fun again!
+During all these years, I was still learning on the side. Ever since building my online coffee shopping cart in Rails, I knew this is where I wanted to go and I kept learning ruby and Rails and creating little projects in my free time. I also explored other languages, like Haskell. I'd always had a bias toward Linux as well and used it on my laptop while my family was enjoying an iMac. It slowly became obvious to me that what I really enjoyed was not being on a Windows computer. Since up until that point I had mainly been programming in C# on the Microsoft .Net platform, I took an interest in Mono because the idea of a free open source alternative to .Net was greatly appealing to me. The power to tweak, even if you don't take advantage of it, is incredibly seductive to some programmers and it was sure luring me in.
 
-I'm swinging back to design and engineering, but don't want to go as far.
+So when I finally got my latest job, working on a Ruby on Rails application using Macs and deploying to Linux servers, I knew I had found my home. The work is not always fun, but I don't mind anymore. Programming became fun again.
+
+My journey is far from over. I've experienced over design and no design at all.
