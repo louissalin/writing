@@ -18,4 +18,4 @@ Thank God I didn't finish that major! I realized I wasn't on the right track and
 
 I have very fond memories of my time at the university but I can't pin point anything that made me a better developer there. I learned a ton of stuff. I was blown away by some classes like functional programming, compilers, operating systems, assembly, computer graphics and device drivers. I was also bored to tears by some other classes like statistics (which I developed an interest for recently. It's funny how these things happen,) distributed computing, databases and some theoretical computing classes. But most of all, I feel like college did not prepare me for the real world and thus didn't do anything for my personal growth as a programmer. To this day, I don't know how to deal with that. Can I turn my computer science degree into an edge? Should I?o
 
-to be continued...
+(My story continues "here, in part two":http://www.emoprog.com/2013/02/27/jouney2.html.)

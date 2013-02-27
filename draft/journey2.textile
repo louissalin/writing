@@ -4,7 +4,7 @@ title: My Journey as a Software Developer - the real world
 ---
 <title>{{ page.title }}</title>
 
-(this is the continuation of this previous post)
+(My story started "here, in part one":http://www.emoprog.com/2013/01/12/jouney.html. Go read it if you haven't!)
 
 After getting out of college I got a job in a small shop that was reselling a 3D CAD software package and I spent about a year writing custom automation scripts for a customer of ours. We soon realized that most of what we did for our clients coud be automated so a team was put together to write a plugin and an application for the platform. I must've spent a bit more than two years working on that and the project became my introduction to .Net, C# and the usage of databases as a storage medium. Very quickly, I started feeling that programming could be a frustrating and boring job, not the exciting hobby it used to be. I didn't know it back then, but when somebody is paying you to do a job, they have a certain set of expectations that needs to be met. I remember being yelled at because we had made a decision to completely revamp the core of our application. It was the right decision. Our old abstractions were simply not suitable anymore. However, our supervisor, who was not a programmer, was angry that we decided to take this three or four week detour. Honestly, none of us thought it would take more than a week and we didn't bother letting our supervisor know about this. 
 
