@@ -4,7 +4,18 @@ title: Technical Leadership in an Agile Team?
 ---
 <title>{{ page.title }}</title>
 
+http://www.inc.com/alan-ying/why-product-management-is-everything.html
+http://www.goodproductmanager.com/2007/09/24/product-management-vs-project-management/
+
+It seems like product managers are the backbone of the flow of ideas through output organs (sales, customers, marketing) and into internal organs (development) to produce an output (the products). However, where is the vision? While it's good to give customers what they want and need, a product should follow a vision. Is that the product management leader's role?
+
+Product managers, who might want to add a lot of features to satisfy customers, can be kept in check by project managers who want to keep the scope small to make sure the product is delivered in time, under budget. Could the leader of a development team be this project manager, with higher ups being also project managers? This sounds right. If both product and project managers are technical, then they'll be able to understand technical design and choices that may delay a project or reduce a feature's scope. The product manager should get with the project manager before a new project and talk about what's coming down the pipeline. The project manager could then go to his/her team and roughly estimate the scope of the whole thing and then report back to the product manager. This is how it was done at Topaz. 
+
+However, this means the project manager doesn't switch projects once something is done. He will manage whichever project his team will work on, with developers get on and off different teams to match needs of all products. The line between project and team management gets blurred. I think the team manager would be a great project manager because of the distance between him and the metal (the real work being done)
+
 When work is handed down by product managers and product owners, when the team of software developers is self-organized, when their manager's purpose is make sure the team works as efficiently as possible, then how does one rise through the ranks? What ranks are there to rise through? Typically, the way up is through management. There is also a way to rise through technical ranks, however, but this path is always more nebulous. 
+
+
 
 research Fellows
 
