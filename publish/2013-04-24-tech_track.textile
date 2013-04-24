@@ -1,0 +1,23 @@
+---
+layout: post
+title: Progressing on the Tech Track
+---
+<title>{{ page.title }}</title>
+
+What do you want to be when you grow up?
+What do you want to do in five years?
+Where do you want to be?
+
+Eventually, everybody starts asking themselves these questions. The answers, however, are not always so easy to find and most of us, based on purely anecdotal evidence, don't try to position ourselves for the future. In the tech sector, where demand for programmers exceeds the offer, we tend to switch jobs often, hoping to end up in a better position, usually with better pay. The people that stay with their current employer are left with a conundrum: switch or move up in management where their technical skills become less and less necessary the higher up they go and new skills need to be acquired. 
+
+There is another route, however, that is mostly available in big companies: the technical track.
+
+Deciding between going up the manager track or the tech track has been in my mind for a long time. The first time I'd heard of the tech track was when I was interning at Corel. I remember being fascinated by it, looking at a document a friend had printed up that clearly showed two different paths of career progression. Even though the path seemed clear, I remember being confused as to how to progress on the technical track. Going up the managerial track is dead obvious with clear responsibilities of management, financial and strategy planning as you go higher up. Usually one simply gets promoted to a junior manager position and off he goes. But what are the responsibilities of the people higher up on the technical track? Software architecture and high level design? Sure, that's very probable. What else? And how many architects do you need in one company? Do you start off as a team technical lead? Do you ever have to manage a team?
+
+So many questions, so many unknowns! The technical track exists. Some companies reward technical leaders by naming them fellows, like at Motorola or IBM. But the path is so fuzzy! How does one get started on that journey? I recently took a look at the job descriptions of higher up technical titles for my company and found some interesting things. The higher up you are, the more you are expected to mentor people more junior than you. You are also expected to do a better job at designing complex changes to the software, provide better quality code and have better problem solving skills, etc. The higher up you are on that scale, the better you need to be at all these competencies.
+
+The basic test to know which path fits our personalities is whether you're an introvert or an extrovert, where introverts should remain technical. I don't believe this is valid at all. Some of the toughest technical tasks involve synchronizing between teams and that requires talking to people. Sure, one could get project managers involved, but that's less efficient than direct communication. Also, I've met architects who spend considerable time trying to convince teams that their ideas should be implemented. That's not a job an introvert would like. So it seems to me that people skills are necessary as well as technical chops as you go higher. 
+
+So my next steps are going to be to develop my skills and knowledge and take on challenges that take me out of my comfort zone so I can demonstrate my abilities to get things done and solve tough problems. I'll use the job titles that are above my own as a guide so decide which skill I need to tackle next, and I'll also look for a mentor who's gone through this and went up the technical track.
+
+This feels a bit like trail blazing and I think it's going to be fun.
