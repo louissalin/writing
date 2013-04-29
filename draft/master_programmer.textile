@@ -1,0 +1,20 @@
+---
+layout: post
+title: Master Programmer
+---
+<title>{{ page.title }}</title>
+
+The concept of a chief engineer is fascinating. I romantasize the idea of a man or woman that stands at the top of an organization, designing and overseeing the creation of a product, while still being able to roll up his or her sleeves and go do the dirty work on the shop floor if needed. When the obvious track for software developers is to go up into management instead of the more nebulous tech track (backlink), most programmers start loosing their coding chops as they go up the ladder. They forget patterns, languages and the tricks they used to make things faster. Then one day, they start forgetting what's so hard about programming that certain features are not done by the deadline.
+
+Not so my ideal of a master programmer. I may be naive, but allow me to fantasize for a second and conjure up what I see when I think of a master programmer.
+
+That master knows how to build software. They architect high level components and design the communication means between them. They talk to all their team leaders and synchronize the work. They manage a timeline and oversee each release. They talk to the executives and manage expectations. They fix bugs when time runs short. They learn and master everything about the software as its being built.  
+
+Finally, the master programmer is passionate about building software. I think this passion is really important because it could be very hard to sustain the hard work necessary to master the three skills that I think are necessary to be called a master:
+
+1) Programming skills: mastering the main language used at the organization and maybe know a secondary language or two. Master design patterns, enterprise design patterns (if necessary).
+2) DevOps skills: know how to scale the application, master the production environment, master the nitty gritty details of how the application works.
+3) People skills: know how to communicate, mentor, teach, and learn from others
+4) Project management skills: know how to manage the timeline of the project, manage expectations, etc.
+
+Maybe I don't know what I'm talking about. Maybe being a master programmer isn't at all like I just described it. But at least, it's a starting point. I admit I'd like to become such a master programmer and this is my progress blueprint. I'll tweak it as I go but at least I can take the first step
