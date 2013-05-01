@@ -1,0 +1,13 @@
+---
+layout: post
+title: Doubt
+---
+<title>{{ page.title }}</title>
+
+As someone who introspects regularly and tend to compare myself to others, I'm sometimes plagued with bouts of low self-esteem with regards to my professional life. This usually happens during a conjecture of events where I find myself annoyed at how I dealt with a certain situation at work while being awed by the skills of my co-workers. From there, any display of respect by my peers toward each other will make me crave some form of recognition to reassure me that I'm doing fine. Recognition and marks of respect, however, and not freely given and nor should they. So I usually find myself starting to brood and wondering if I'm in the right field, questioning my own skill set. I even start belittling myself here and there, trying to attract some kind of attention, hoping someone says something nice. 
+
+I realize that I'm not thinking rationally. Wanting others to display their respect for me to offset what I perceive as their respect for others is completely off balance in the same way as if I'd demand ten dollars for every dollar donated to charity. This is even more troubling since I crave that respect because what I really want is reassurance.
+
+All this because I have this immense desire to be really good at what I do. So when I work with people that are smart and skilled, this pattern tends to take place more often. As I "wrote in the past":http://www.emoprog.com/2013/02/27/journey.html, I'm always trying to catch up to people who I think are better than me at what I do. It's somewhat of a curse, really, because I feel I'm chasing ghosts. The field is too large with so many things to learn that mastering all of them is impossible. However, because I always look up to people, I try to get better and self-teach in order to accumulate skills.
+
+Doubt is a fearsome beast. It'll eat away at you, but it can also motivate. While it keeps me humble and it makes me want to fill in the gaps in my knowledge, it also makes me feel pretty small sometimes.
