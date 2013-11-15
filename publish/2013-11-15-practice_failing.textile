@@ -1,0 +1,32 @@
+---
+layout: post
+title: Break things
+tags:
+- tech
+---
+
+<title>{{ page.title }}</title>
+
+Break things on purpose to practice what to do when things go wrong.
+
+As you build software and as you deploy it to a staging environment that hopefully mirrors your production environment, break things. Kill processes, delete configuration files, change permissions on a vital directory. This will prepare you for the real test later.
+
+Deploying to production always makes me a bit nervous. We set up a maintenance window and we don't want to go in overtime, but sometimes unexcepted things happen. When bad things happen, it usually starts like this in the chat room:
+
+- I can't see anything come through the log
+
+or
+
+- Terms are not coming back
+
+Then you have two choices: rollback the entire deploy, at a huge cost to your credibility, or try to use the remaining time in your maintenance window to fix it. I tell you what, the more you practiced breaking things, the more likely you are to fix it immediately.
+
+Some things that have happened to us during a production deploy to make them interesting:
+
+- misconfigured config files (sometimes more than one)
+- not able to connect to external services
+- forgetting run certain database migrations (hey, not everyone uses Rails migrations)
+
+All these things will prevent your app from running, but since we know how to log in into the production server, inspect log files, check external services statuses, double check our config files and we know our hardware, we're always able to fix deploys on the brink of failing.
+
+If you want to be extremely good at practicing failure, do like Netflix and develop a suite of tools that will simulate failures. That's how they manage to stay up and running when Amazon servers fail.
